@@ -1,0 +1,2691 @@
+[
+  {
+    "user_id": "user_001",
+    "email": "tonya09@example.net",
+    "name": "Lauren Perez",
+    "department": "Marketing",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "mobile"
+    ],
+    "risk_score": 0.25,
+    "created_at": "2024-11-18T22:13:50.723203"
+  },
+  {
+    "user_id": "user_002",
+    "email": "johnsonlisa@example.com",
+    "name": "Kenneth Summers",
+    "department": "IT",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mobile"
+    ],
+    "risk_score": 0.26,
+    "created_at": "2025-09-24T22:13:50.723203"
+  },
+  {
+    "user_id": "user_003",
+    "email": "timothy66@example.org",
+    "name": "Alex Johnson",
+    "department": "IT",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "mobile",
+      "windows"
+    ],
+    "risk_score": 0.28,
+    "created_at": "2024-04-28T22:13:50.723203"
+  },
+  {
+    "user_id": "user_004",
+    "email": "kristina34@example.org",
+    "name": "Jacob Johnson",
+    "department": "Operations",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.64,
+    "created_at": "2025-05-25T22:13:50.723203"
+  },
+  {
+    "user_id": "user_005",
+    "email": "jose96@example.org",
+    "name": "Sharon Mcfarland",
+    "department": "Sales",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "windows"
+    ],
+    "risk_score": 0.48,
+    "created_at": "2025-03-21T22:13:50.725208"
+  },
+  {
+    "user_id": "user_006",
+    "email": "erik86@example.net",
+    "name": "Rick Davis",
+    "department": "Legal",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "mobile",
+      "windows"
+    ],
+    "risk_score": 0.5,
+    "created_at": "2025-09-11T22:13:50.725208"
+  },
+  {
+    "user_id": "user_007",
+    "email": "lpham@example.org",
+    "name": "Robert Holmes",
+    "department": "Legal",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.13,
+    "created_at": "2024-10-09T22:13:50.725208"
+  },
+  {
+    "user_id": "user_008",
+    "email": "anthony65@example.net",
+    "name": "Priscilla Griffin",
+    "department": "Finance",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.51,
+    "created_at": "2024-05-01T22:13:50.726716"
+  },
+  {
+    "user_id": "user_009",
+    "email": "christina93@example.com",
+    "name": "Matthew Crawford",
+    "department": "Sales",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mobile",
+      "mac"
+    ],
+    "risk_score": 0.85,
+    "created_at": "2025-05-17T22:13:50.726716"
+  },
+  {
+    "user_id": "user_010",
+    "email": "ryanpalmer@example.com",
+    "name": "Tammy Avila",
+    "department": "R&D",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "linux",
+      "windows"
+    ],
+    "risk_score": 0.33,
+    "created_at": "2026-02-22T22:13:50.726716"
+  },
+  {
+    "user_id": "user_011",
+    "email": "daniel05@example.net",
+    "name": "Elizabeth Garcia",
+    "department": "Legal",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "windows"
+    ],
+    "risk_score": 0.89,
+    "created_at": "2025-04-13T22:13:50.728720"
+  },
+  {
+    "user_id": "user_012",
+    "email": "abishop@example.org",
+    "name": "Nicholas Wilkins",
+    "department": "Legal",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mac"
+    ],
+    "risk_score": 0.07,
+    "created_at": "2026-01-09T22:13:50.728720"
+  },
+  {
+    "user_id": "user_013",
+    "email": "kduncan@example.com",
+    "name": "Melissa Burch",
+    "department": "Legal",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.06,
+    "created_at": "2024-07-29T22:13:50.728720"
+  },
+  {
+    "user_id": "user_014",
+    "email": "qclark@example.net",
+    "name": "Linda Wolf",
+    "department": "Finance",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "windows"
+    ],
+    "risk_score": 0.61,
+    "created_at": "2025-01-03T22:13:50.728720"
+  },
+  {
+    "user_id": "user_015",
+    "email": "andrebentley@example.net",
+    "name": "Ryan Brown",
+    "department": "IT",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "linux"
+    ],
+    "risk_score": 0.07,
+    "created_at": "2025-11-18T22:13:50.730727"
+  },
+  {
+    "user_id": "user_016",
+    "email": "phillip17@example.net",
+    "name": "Jeffrey Stewart",
+    "department": "Marketing",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mac",
+      "mobile"
+    ],
+    "risk_score": 0.03,
+    "created_at": "2024-07-18T22:13:50.730727"
+  },
+  {
+    "user_id": "user_017",
+    "email": "ajohnson@example.com",
+    "name": "John Taylor",
+    "department": "Operations",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "linux",
+      "mac"
+    ],
+    "risk_score": 0.16,
+    "created_at": "2026-01-06T22:13:50.731734"
+  },
+  {
+    "user_id": "user_018",
+    "email": "cobblinda@example.net",
+    "name": "Johnathan Johnson",
+    "department": "HR",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.93,
+    "created_at": "2025-07-02T22:13:50.731734"
+  },
+  {
+    "user_id": "user_019",
+    "email": "briannacollins@example.org",
+    "name": "Sierra Novak",
+    "department": "Finance",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.54,
+    "created_at": "2025-09-27T22:13:50.731734"
+  },
+  {
+    "user_id": "user_020",
+    "email": "kathleen35@example.net",
+    "name": "Jonathan Arias",
+    "department": "Finance",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.9,
+    "created_at": "2025-10-30T22:13:50.733738"
+  },
+  {
+    "user_id": "user_021",
+    "email": "raymond55@example.com",
+    "name": "Wanda Rodriguez DDS",
+    "department": "Sales",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "windows",
+      "mobile"
+    ],
+    "risk_score": 0.87,
+    "created_at": "2025-03-14T22:13:50.733738"
+  },
+  {
+    "user_id": "user_022",
+    "email": "ejackson@example.org",
+    "name": "Brittany Evans",
+    "department": "Operations",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "mac",
+      "windows"
+    ],
+    "risk_score": 0.09,
+    "created_at": "2025-06-23T22:13:50.733738"
+  },
+  {
+    "user_id": "user_023",
+    "email": "stephenduke@example.org",
+    "name": "Joe Howard",
+    "department": "IT",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.41,
+    "created_at": "2024-08-10T22:13:50.735744"
+  },
+  {
+    "user_id": "user_024",
+    "email": "amiller@example.com",
+    "name": "Kristen Moss",
+    "department": "IT",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "linux",
+      "windows"
+    ],
+    "risk_score": 0.19,
+    "created_at": "2025-03-15T22:13:50.735744"
+  },
+  {
+    "user_id": "user_025",
+    "email": "millermatthew@example.com",
+    "name": "Scott Lewis",
+    "department": "Finance",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.98,
+    "created_at": "2025-03-07T22:13:50.736751"
+  },
+  {
+    "user_id": "user_026",
+    "email": "ramseyallison@example.org",
+    "name": "Ana Callahan",
+    "department": "Legal",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "linux"
+    ],
+    "risk_score": 0.28,
+    "created_at": "2025-09-16T22:13:50.736751"
+  },
+  {
+    "user_id": "user_027",
+    "email": "johnwilliams@example.org",
+    "name": "Trevor Walker",
+    "department": "HR",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.26,
+    "created_at": "2024-07-14T22:13:50.736751"
+  },
+  {
+    "user_id": "user_028",
+    "email": "andrebaker@example.com",
+    "name": "Jeanne Carpenter",
+    "department": "Marketing",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "windows"
+    ],
+    "risk_score": 0.4,
+    "created_at": "2024-06-13T22:13:50.738757"
+  },
+  {
+    "user_id": "user_029",
+    "email": "zdavis@example.com",
+    "name": "Ms. Sara Foster",
+    "department": "R&D",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "linux",
+      "windows"
+    ],
+    "risk_score": 0.88,
+    "created_at": "2026-02-21T22:13:50.738757"
+  },
+  {
+    "user_id": "user_030",
+    "email": "whiteruben@example.net",
+    "name": "Jay Alvarez",
+    "department": "Sales",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile"
+    ],
+    "risk_score": 0.19,
+    "created_at": "2026-02-07T22:13:50.738757"
+  },
+  {
+    "user_id": "user_031",
+    "email": "amy76@example.com",
+    "name": "William Lopez",
+    "department": "IT",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.19,
+    "created_at": "2024-11-16T22:13:50.740763"
+  },
+  {
+    "user_id": "user_032",
+    "email": "ghall@example.net",
+    "name": "Nicholas Sanchez",
+    "department": "Operations",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.45,
+    "created_at": "2024-07-16T22:13:50.740763"
+  },
+  {
+    "user_id": "user_033",
+    "email": "cody85@example.com",
+    "name": "Christopher Bray",
+    "department": "Legal",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.21,
+    "created_at": "2026-02-11T22:13:50.741772"
+  },
+  {
+    "user_id": "user_034",
+    "email": "louishill@example.com",
+    "name": "Mary Barnes",
+    "department": "Legal",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.89,
+    "created_at": "2024-11-29T22:13:50.741772"
+  },
+  {
+    "user_id": "user_035",
+    "email": "anthonyvance@example.com",
+    "name": "Jeffrey Dominguez",
+    "department": "R&D",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "windows"
+    ],
+    "risk_score": 0.69,
+    "created_at": "2024-12-02T22:13:50.741772"
+  },
+  {
+    "user_id": "user_036",
+    "email": "hperez@example.net",
+    "name": "Mary Miller",
+    "department": "Finance",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.04,
+    "created_at": "2024-07-01T22:13:50.743777"
+  },
+  {
+    "user_id": "user_037",
+    "email": "alexis48@example.com",
+    "name": "Deborah Butler",
+    "department": "Sales",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mobile"
+    ],
+    "risk_score": 0.32,
+    "created_at": "2024-08-13T22:13:50.743777"
+  },
+  {
+    "user_id": "user_038",
+    "email": "colekenneth@example.org",
+    "name": "Justin Hudson",
+    "department": "Sales",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.99,
+    "created_at": "2024-06-13T22:13:50.743777"
+  },
+  {
+    "user_id": "user_039",
+    "email": "jacobhobbs@example.com",
+    "name": "Angela Reynolds",
+    "department": "Finance",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "risk_score": 0.23,
+    "created_at": "2024-06-13T22:13:50.745783"
+  },
+  {
+    "user_id": "user_040",
+    "email": "jonathankennedy@example.org",
+    "name": "Joanne Salinas",
+    "department": "HR",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.94,
+    "created_at": "2025-10-12T22:13:50.745783"
+  },
+  {
+    "user_id": "user_041",
+    "email": "moodyjoseph@example.org",
+    "name": "Donna Johnson",
+    "department": "IT",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile"
+    ],
+    "risk_score": 0.17,
+    "created_at": "2025-12-17T22:13:50.746791"
+  },
+  {
+    "user_id": "user_042",
+    "email": "michaelwhitehead@example.org",
+    "name": "Luis Wright",
+    "department": "R&D",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.45,
+    "created_at": "2025-04-27T22:13:50.746791"
+  },
+  {
+    "user_id": "user_043",
+    "email": "schultzrobin@example.com",
+    "name": "Tina Mclaughlin",
+    "department": "Sales",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mac"
+    ],
+    "risk_score": 0.11,
+    "created_at": "2025-01-01T22:13:50.746791"
+  },
+  {
+    "user_id": "user_044",
+    "email": "christopherparker@example.org",
+    "name": "Brian Thompson",
+    "department": "IT",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.16,
+    "created_at": "2024-09-01T22:13:50.748797"
+  },
+  {
+    "user_id": "user_045",
+    "email": "hurstlaura@example.com",
+    "name": "Nancy Wilson",
+    "department": "Operations",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "linux"
+    ],
+    "risk_score": 0.63,
+    "created_at": "2024-05-09T22:13:50.748797"
+  },
+  {
+    "user_id": "user_046",
+    "email": "qflores@example.org",
+    "name": "John Dickerson",
+    "department": "Operations",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "linux"
+    ],
+    "risk_score": 0.48,
+    "created_at": "2025-12-03T22:13:50.748797"
+  },
+  {
+    "user_id": "user_047",
+    "email": "estradamark@example.net",
+    "name": "Brittany Smith",
+    "department": "Sales",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.32,
+    "created_at": "2026-01-21T22:13:50.750803"
+  },
+  {
+    "user_id": "user_048",
+    "email": "andrew02@example.com",
+    "name": "Alyssa Baker",
+    "department": "IT",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "windows"
+    ],
+    "risk_score": 0.72,
+    "created_at": "2025-07-12T22:13:50.751810"
+  },
+  {
+    "user_id": "user_049",
+    "email": "nicolegallegos@example.com",
+    "name": "Sean Chung",
+    "department": "Legal",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.62,
+    "created_at": "2025-02-27T22:13:50.751810"
+  },
+  {
+    "user_id": "user_050",
+    "email": "julia44@example.net",
+    "name": "Samuel Thomas",
+    "department": "R&D",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "windows"
+    ],
+    "risk_score": 0.75,
+    "created_at": "2024-07-17T22:13:50.751810"
+  },
+  {
+    "user_id": "user_051",
+    "email": "christinaphelps@example.com",
+    "name": "Shelly Gray",
+    "department": "R&D",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.66,
+    "created_at": "2025-06-23T22:13:50.751810"
+  },
+  {
+    "user_id": "user_052",
+    "email": "gary13@example.com",
+    "name": "Angela Frye",
+    "department": "Sales",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.51,
+    "created_at": "2024-07-19T22:13:50.753815"
+  },
+  {
+    "user_id": "user_053",
+    "email": "jamesphilip@example.net",
+    "name": "Stephanie Jordan",
+    "department": "IT",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "risk_score": 0.03,
+    "created_at": "2025-01-09T22:13:50.753815"
+  },
+  {
+    "user_id": "user_054",
+    "email": "bradleywheeler@example.org",
+    "name": "Joseph Martin",
+    "department": "Sales",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "linux",
+      "windows"
+    ],
+    "risk_score": 0.16,
+    "created_at": "2024-10-31T22:13:50.753815"
+  },
+  {
+    "user_id": "user_055",
+    "email": "bradgrant@example.net",
+    "name": "Sergio Torres",
+    "department": "Legal",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "mobile",
+      "windows"
+    ],
+    "risk_score": 0.9,
+    "created_at": "2024-12-05T22:13:50.755820"
+  },
+  {
+    "user_id": "user_056",
+    "email": "marygonzales@example.net",
+    "name": "Debbie Pittman",
+    "department": "Marketing",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "mobile"
+    ],
+    "risk_score": 0.39,
+    "created_at": "2024-07-12T22:13:50.756828"
+  },
+  {
+    "user_id": "user_057",
+    "email": "danielsanchez@example.com",
+    "name": "Carrie Porter",
+    "department": "Finance",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.09,
+    "created_at": "2025-04-22T22:13:50.756828"
+  },
+  {
+    "user_id": "user_058",
+    "email": "glang@example.org",
+    "name": "Nathan Garcia DDS",
+    "department": "R&D",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.92,
+    "created_at": "2025-06-07T22:13:50.756828"
+  },
+  {
+    "user_id": "user_059",
+    "email": "davisbrandon@example.com",
+    "name": "Hannah Wilson",
+    "department": "IT",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "mac"
+    ],
+    "risk_score": 0.56,
+    "created_at": "2026-01-04T22:13:50.758835"
+  },
+  {
+    "user_id": "user_060",
+    "email": "xdavis@example.net",
+    "name": "Sandra Young",
+    "department": "Sales",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mac"
+    ],
+    "risk_score": 0.21,
+    "created_at": "2024-11-27T22:13:50.758835"
+  },
+  {
+    "user_id": "user_061",
+    "email": "yyoung@example.org",
+    "name": "Stephanie Walker",
+    "department": "Finance",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "windows"
+    ],
+    "risk_score": 0.38,
+    "created_at": "2025-05-31T22:13:50.758835"
+  },
+  {
+    "user_id": "user_062",
+    "email": "larry06@example.com",
+    "name": "Sara Whitaker",
+    "department": "IT",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile"
+    ],
+    "risk_score": 0.3,
+    "created_at": "2025-04-16T22:13:50.760840"
+  },
+  {
+    "user_id": "user_063",
+    "email": "nallen@example.net",
+    "name": "James Allen",
+    "department": "Legal",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile"
+    ],
+    "risk_score": 0.73,
+    "created_at": "2024-06-01T22:13:50.762268"
+  },
+  {
+    "user_id": "user_064",
+    "email": "nicolerush@example.com",
+    "name": "Christopher Beasley",
+    "department": "IT",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.24,
+    "created_at": "2025-12-15T22:13:50.763448"
+  },
+  {
+    "user_id": "user_065",
+    "email": "edavis@example.com",
+    "name": "Monica Flowers",
+    "department": "R&D",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.93,
+    "created_at": "2025-09-02T22:13:50.763448"
+  },
+  {
+    "user_id": "user_066",
+    "email": "cochranashley@example.net",
+    "name": "Angela Mendoza",
+    "department": "Finance",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mobile"
+    ],
+    "risk_score": 0.54,
+    "created_at": "2024-11-27T22:13:50.763448"
+  },
+  {
+    "user_id": "user_067",
+    "email": "dthompson@example.com",
+    "name": "Brian Terry",
+    "department": "Sales",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.54,
+    "created_at": "2024-04-20T22:13:50.763448"
+  },
+  {
+    "user_id": "user_068",
+    "email": "morenoderek@example.org",
+    "name": "William Young",
+    "department": "Sales",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.16,
+    "created_at": "2025-05-15T22:13:50.767458"
+  },
+  {
+    "user_id": "user_069",
+    "email": "pfisher@example.net",
+    "name": "Courtney Brown",
+    "department": "R&D",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.29,
+    "created_at": "2025-09-09T22:13:50.767458"
+  },
+  {
+    "user_id": "user_070",
+    "email": "vcooper@example.net",
+    "name": "Nicholas Dunn",
+    "department": "HR",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile"
+    ],
+    "risk_score": 0.49,
+    "created_at": "2024-08-22T22:13:50.767458"
+  },
+  {
+    "user_id": "user_071",
+    "email": "cartercurtis@example.org",
+    "name": "Travis Yoder",
+    "department": "Finance",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "linux",
+      "mac"
+    ],
+    "risk_score": 0.67,
+    "created_at": "2025-03-04T22:13:50.767458"
+  },
+  {
+    "user_id": "user_072",
+    "email": "kyleadams@example.net",
+    "name": "Craig Burns",
+    "department": "IT",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mobile"
+    ],
+    "risk_score": 0.75,
+    "created_at": "2024-07-07T22:13:50.767458"
+  },
+  {
+    "user_id": "user_073",
+    "email": "kevingarcia@example.org",
+    "name": "Cory Garner",
+    "department": "IT",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "windows"
+    ],
+    "risk_score": 0.82,
+    "created_at": "2024-06-25T22:13:50.767458"
+  },
+  {
+    "user_id": "user_074",
+    "email": "herreralaura@example.net",
+    "name": "Eric Watts",
+    "department": "HR",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "risk_score": 0.13,
+    "created_at": "2025-03-28T22:13:50.767458"
+  },
+  {
+    "user_id": "user_075",
+    "email": "qclarke@example.net",
+    "name": "Christopher Williams",
+    "department": "IT",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.65,
+    "created_at": "2024-08-29T22:13:50.772479"
+  },
+  {
+    "user_id": "user_076",
+    "email": "tammy84@example.org",
+    "name": "Heidi Combs",
+    "department": "Sales",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mac",
+      "mobile"
+    ],
+    "risk_score": 0.67,
+    "created_at": "2025-08-20T22:13:50.772479"
+  },
+  {
+    "user_id": "user_077",
+    "email": "katherine51@example.com",
+    "name": "Brittany Marsh",
+    "department": "Legal",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "windows",
+      "mac"
+    ],
+    "risk_score": 0.29,
+    "created_at": "2024-11-04T22:13:50.772479"
+  },
+  {
+    "user_id": "user_078",
+    "email": "regina90@example.org",
+    "name": "Mr. Scott Simpson",
+    "department": "Legal",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "windows",
+      "mac"
+    ],
+    "risk_score": 0.94,
+    "created_at": "2025-03-29T22:13:50.772479"
+  },
+  {
+    "user_id": "user_079",
+    "email": "anthonymyers@example.org",
+    "name": "Gerald Barron",
+    "department": "R&D",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.94,
+    "created_at": "2025-06-25T22:13:50.772479"
+  },
+  {
+    "user_id": "user_080",
+    "email": "rodriguezmatthew@example.com",
+    "name": "Christian Nguyen MD",
+    "department": "HR",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.45,
+    "created_at": "2025-04-17T22:13:50.772479"
+  },
+  {
+    "user_id": "user_081",
+    "email": "scottsmith@example.org",
+    "name": "Curtis Pierce",
+    "department": "Finance",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "mac"
+    ],
+    "risk_score": 0.99,
+    "created_at": "2024-06-08T22:13:50.772479"
+  },
+  {
+    "user_id": "user_082",
+    "email": "susanjones@example.net",
+    "name": "Katrina Church",
+    "department": "Operations",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "mobile",
+      "windows"
+    ],
+    "risk_score": 0.92,
+    "created_at": "2025-06-03T22:13:50.772479"
+  },
+  {
+    "user_id": "user_083",
+    "email": "phillip18@example.net",
+    "name": "Jason Davis",
+    "department": "Legal",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile"
+    ],
+    "risk_score": 0.5,
+    "created_at": "2024-12-14T22:13:50.772479"
+  },
+  {
+    "user_id": "user_084",
+    "email": "thompsoncynthia@example.net",
+    "name": "Destiny Johnson",
+    "department": "HR",
+    "usual_location": "Madrid",
+    "usual_lat": 40.4168,
+    "usual_lon": -3.7038,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.02,
+    "created_at": "2025-01-17T22:13:50.777512"
+  },
+  {
+    "user_id": "user_085",
+    "email": "silvasarah@example.org",
+    "name": "Jane Cooper",
+    "department": "IT",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "mac"
+    ],
+    "risk_score": 0.05,
+    "created_at": "2025-10-18T22:13:50.778677"
+  },
+  {
+    "user_id": "user_086",
+    "email": "skim@example.org",
+    "name": "Brooke Andrews",
+    "department": "Operations",
+    "usual_location": "Barcelona",
+    "usual_lat": 41.3851,
+    "usual_lon": 2.1734,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile"
+    ],
+    "risk_score": 0.28,
+    "created_at": "2025-05-29T22:13:50.778677"
+  },
+  {
+    "user_id": "user_087",
+    "email": "hknox@example.com",
+    "name": "Elizabeth Johnson",
+    "department": "HR",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "mobile",
+      "linux"
+    ],
+    "risk_score": 0.69,
+    "created_at": "2024-06-17T22:13:50.778677"
+  },
+  {
+    "user_id": "user_088",
+    "email": "sjohnson@example.net",
+    "name": "Anna Fletcher",
+    "department": "R&D",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac"
+    ],
+    "risk_score": 0.77,
+    "created_at": "2024-09-24T22:13:50.780195"
+  },
+  {
+    "user_id": "user_089",
+    "email": "ldeleon@example.com",
+    "name": "Judy Foster",
+    "department": "Legal",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.06,
+    "created_at": "2025-09-01T22:13:50.780195"
+  },
+  {
+    "user_id": "user_090",
+    "email": "uwebb@example.com",
+    "name": "April Joseph",
+    "department": "Operations",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.33,
+    "created_at": "2025-12-16T22:13:50.780195"
+  },
+  {
+    "user_id": "user_091",
+    "email": "duncanvictor@example.net",
+    "name": "Russell Garcia",
+    "department": "Finance",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.99,
+    "created_at": "2025-09-23T22:13:50.782654"
+  },
+  {
+    "user_id": "user_092",
+    "email": "connie74@example.net",
+    "name": "Gina Nelson",
+    "department": "Marketing",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows",
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.19,
+    "created_at": "2025-12-23T22:13:50.782654"
+  },
+  {
+    "user_id": "user_093",
+    "email": "michaelhughes@example.net",
+    "name": "Kimberly Silva",
+    "department": "Marketing",
+    "usual_location": "Paris",
+    "usual_lat": 48.8566,
+    "usual_lon": 2.3522,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "windows"
+    ],
+    "risk_score": 0.13,
+    "created_at": "2024-07-25T22:13:50.782654"
+  },
+  {
+    "user_id": "user_094",
+    "email": "lamjean@example.com",
+    "name": "Jill Moreno",
+    "department": "Sales",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "mac",
+      "mobile"
+    ],
+    "risk_score": 0.17,
+    "created_at": "2025-03-09T22:13:50.782654"
+  },
+  {
+    "user_id": "user_095",
+    "email": "kristie62@example.org",
+    "name": "Maria Howard",
+    "department": "Operations",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mobile",
+      "linux"
+    ],
+    "risk_score": 0.29,
+    "created_at": "2026-03-02T22:13:50.782654"
+  },
+  {
+    "user_id": "user_096",
+    "email": "gary57@example.com",
+    "name": "Heather Jefferson",
+    "department": "HR",
+    "usual_location": "Rome",
+    "usual_lat": 41.9028,
+    "usual_lon": 12.4964,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.69,
+    "created_at": "2026-02-16T22:13:50.782654"
+  },
+  {
+    "user_id": "user_097",
+    "email": "johnarnold@example.com",
+    "name": "Patrick Graham",
+    "department": "Marketing",
+    "usual_location": "Tunis",
+    "usual_lat": 36.8065,
+    "usual_lon": 10.1815,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux"
+    ],
+    "risk_score": 0.2,
+    "created_at": "2025-10-20T22:13:50.782654"
+  },
+  {
+    "user_id": "user_098",
+    "email": "kbennett@example.com",
+    "name": "Andrew Curry",
+    "department": "HR",
+    "usual_location": "Berlin",
+    "usual_lat": 52.52,
+    "usual_lon": 13.405,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "mac",
+      "mobile",
+      "windows"
+    ],
+    "risk_score": 0.9,
+    "created_at": "2026-02-03T22:13:50.782654"
+  },
+  {
+    "user_id": "user_099",
+    "email": "smithxavier@example.net",
+    "name": "Jennifer Fowler",
+    "department": "HR",
+    "usual_location": "Milan",
+    "usual_lat": 45.4642,
+    "usual_lon": 9.19,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "windows"
+    ],
+    "risk_score": 0.16,
+    "created_at": "2025-01-16T22:13:50.782654"
+  },
+  {
+    "user_id": "user_100",
+    "email": "april56@example.com",
+    "name": "Rebecca Rios",
+    "department": "HR",
+    "usual_location": "London",
+    "usual_lat": 51.5074,
+    "usual_lon": -0.1278,
+    "usual_hours": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "usual_devices": [
+      "linux",
+      "mobile"
+    ],
+    "risk_score": 0.81,
+    "created_at": "2025-11-19T22:13:50.787669"
+  }
+]

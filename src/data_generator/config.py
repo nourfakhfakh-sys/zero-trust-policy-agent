@@ -8,7 +8,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 
-# Créer le dossier data s'il n'existe pas
+
 os.makedirs(DATA_DIR, exist_ok=True)
 
 # Configuration des logs
